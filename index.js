@@ -5,6 +5,6 @@ const { promisify } = require('util')
 const readFileP = promisify(readFile)
 const parseP = promisify(parse)
 
-readFileP('./courses.csv')
+readFileP('./ubc_course_calendar_data.csv')
   .then(data => parseP(data, { delimiter: ',', columns: true }))
   .then(courseCalendarData => console.log(courseCalendarData))
