@@ -4,7 +4,7 @@ Get started with reading the UBC Course Calendar CSV data using Node.js.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for use with your own API tokens and Canvas domains.
+These instructions will get you a copy of the project up and running on your local machine for use with UBC course calendar data available from the [Learning Analytics Project](https://learninganalytics.ubc.ca/for-students/hackathons/) site.
 
 ### Prerequisites
 
