@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone this repo. `git clone https://github.com/ubccapico/course-calendar-nodejs.git`
 1. Then cd into the repo. `cd course-calendar-nodejs`
-1. Copy/paste the `courses.csv` file you downloaded to the `course-calendar-nodejs` folder.
+1. Copy/paste the `ubc_course_calendar_data.csv` file you downloaded to the `course-calendar-nodejs` folder.
 1. Run the installation script. `npm install` (If you see `babel-node: command not found`, you've missed this step.)
 1. Run `node index.js` or `npm start` to read the CSV.
 
